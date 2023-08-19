@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adm" source-language="fa-IR" target-language="fa-IR" datatype="plaintext">
+    <body>
+      <trans-unit id="9405c3aff9112c3c60d03b94792877dc">
+        <source>Route</source>
+        <target>Route</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f4f70727dc34561dfde1a3c529b6205c">
+        <source>Settings</source>
+        <target>تنظیمات</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d721757161f7f70c5b0949fdb6ec2c30">
+        <source>Theme</source>
+        <target>قالب</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="689fdcddfb318e892e3bb79d963cf44e">
+        <source>Display images</source>
+        <target>نمایش تصاویر</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5dbc3402056fea35a5064879a8c69bbb">
+        <source>Display quantities</source>
+        <target>نمایش موجودی</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

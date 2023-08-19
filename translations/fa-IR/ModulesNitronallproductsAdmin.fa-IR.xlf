@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adm" source-language="fa-IR" target-language="fa-IR" datatype="plaintext">
+    <body>
+      <trans-unit id="ac68d574a2b91dd8f36b1052551051d8">
+        <source><![CDATA[There was an error during the uninstallation. Please <a href="https://github.com/Nitron/PrestaShop/issues">
+                open an issue</a> on the Nitron module project.]]></source>
+        <target><![CDATA[There was an error during the uninstallation. Please <a href="https://github.com/Nitron/PrestaShop/issues">
+                open an issue</a> on the Nitron module project.]]></target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b8fb9fc74548025302081e919045034b">
+        <source><![CDATA[There was an error during the installation. Please <a href="https://github.com/Nitron/PrestaShop/issues">
+                open an issue</a> on the Nitron module project.]]></source>
+        <target><![CDATA[There was an error during the installation. Please <a href="https://github.com/Nitron/PrestaShop/issues">
+                open an issue</a> on the Nitron module project.]]></target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="03368e3c1eb4d2a9048775874301b19f">
+        <source>Select category</source>
+        <target>انتخاب شاخه</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1649cd5d991b12ba8eff0babadeb38df">
+        <source>All product list</source>
+        <target>نمایش لیست محصولات نیترون </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bff914300c9e48ad111a010097f088e9">
+        <source>A new page to provide all your products in one page.</source>
+        <target> نمایش تمامی محصولات شما در یک صفحه </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bb8956c67b82c7444a80c6b2433dd8b4">
+        <source>Are you sure you want to uninstall this module?</source>
+        <target>آیا شما از حذف نصب مازول اطمینان دارید؟</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6af91e35dff67a43ace060d1d57d5d1a">
+        <source>Your settings have been updated.</source>
+        <target>تنظیمات شما به روزرسانی شد </target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

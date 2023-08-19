@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adm" source-language="fa-IR" target-language="fa-IR" datatype="plaintext">
+    <body>
+      <trans-unit id="d7778d0c64b6ba21494c97f77a66885a">
+        <source>Filter</source>
+        <target>فیلتر</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0095a9fa74d1713e43e370a7d7846224">
+        <source>Export</source>
+        <target>خروجی اکسل</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="490aa6e856ccf208a054389e47ce0d06">
+        <source>Id</source>
+        <target>شناسه</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="be53a0541a6d36f6ecb879fa2c584b08">
+        <source>Image</source>
+        <target>عکس</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="49ee3087348e8d44e1feda1917443987">
+        <source>Name</source>
+        <target>نام</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3601146c4e948c32b6424d2c0a7f0118">
+        <source>Price</source>
+        <target>قیمت</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="694e8d1f2ee056f98ee488bdc4982d73">
+        <source>Quantity</source>
+        <target>موجودی</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4351cfebe4b61d8aa5efa1d020710005">
+        <source>View</source>
+        <target>لینک محصول</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="97e7c9a7d06eac006a28bf05467fcc8b">
+        <source>Link</source>
+        <target>مشاهده </target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
